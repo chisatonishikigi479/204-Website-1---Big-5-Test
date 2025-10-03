@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Big 5 Info Site</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+    <!--nav bar here-->
+
+    <h1>Big 5 Introductory Info Site</h1>
+
+    <header>
+        <nav aria-label="Primary">
+        <ul class="nav">
+        <li><a href="#introduction">Introduction/Basic Info</a></li>
+        <li><a href="#big-5-test">Test Yourself!</a></li>
+        <li><a href="#resources">More Resources</a></li>
+        </ul>
+    </nav>
+    </header>
+    
+    <main class = "content">
+
+
+        <section id="introduction">
+            <h1>Introduction to Big 5</h1>
+
+
+                    <div id="trait summary">
+                <table id="trait summary table">
+                <caption>Personality Adjectives</caption>
+                <thead>
+                <tr><th>Dimension</th><th>Low scorers</th><th>High scorers</th></tr>
+                </thead>
+                <tbody>
+                <tr><th>Openness</th><td>Practical, Simple, Concrete, Quotidian</td><td>Curious, Knowledgeable, Sophisticated, Creative</td></tr>
+                <tr><th>Conscientiousness</th><td>Spontaneous, Vacillating, Scattered, Impulsive</td><td>Organized, Disciplined, Dutiful, Fastidious</td></tr>
+                <tr><th>Extraversion</th><td>Reserved, Quiet, Reclusive, Reticent</td><td>Sociable, Outgoing, Bubbly, Energetic</td></tr>
+                <tr><th>Agreeableness</th><td>Cruel, Harsh, Indifferent, Blunt</td><td>Amicable, Acquiescent, Polite, Warm</td></tr>
+                <tr><th>Emotional Stabilty</th><td>Cantankerous, Moody, Impatient, Sensitive</td><td>Calm, Placid, Level-headed, Pleasant</td></tr>
+                </tbody>
+            </table>
+            </div>
+        </section>
+        <section id="big-5-test">
+            <h1>Big 5 test (25 questions)</h1>
+            <p>Rate how accurately each statement describes you. IMPORTANT: Answer honestly. This is an objective personality screening tool, not a Buzzfeed quiz meant to flatter.</p>
+            <form id="big-5-form" novalidate>
+            <ol id="big-5-items" class="items"></ol>
+
+            <div class="actions">
+                <button type="submit" class="btn" id="submit-button">Score my test!</button>
+                <button type="reset" class="btn btn-ghost" id="reset-button">Reset answers</button>
+            </div>
+            </form>
+
+
+            <div id="big-5-results" class="results" aria-live="polite" hidden>
+            <h2>Your Big 5 Scores: </h2>
+            </div>
+        </section>
+        
+        <section id="resources">
+        
+            <h1>More Resources</h1>
+        </section>
+    </main>
+
+    <footer>
+        <p>Created by Luke Zhang, WashU, 2025. Most items of the test are sampled from the <a href=https://ipip.ori.org/BFASKeys.htm>the BFAS scoring key.</a></p>
+    </footer>
+
+<script src="script.js" defer></script>
+</body>
+</html>
