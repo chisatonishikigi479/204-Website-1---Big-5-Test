@@ -155,7 +155,34 @@ button:hover {
   gap: 18px;
 }
 
-.example-card .rationale {
-  margin: 10px;
-  border: 2px dotted #4c227e;
+.example-card {
+  display: grid;
+  grid-template-columns: 300px 1fr;  /* left = avatar, right = text */
+  column-gap: 20px;
+  align-items: start;
+  background: #abd5eb;
+  border: 2px dotted #15878d;
+  border-radius: 18px;
+  padding: 7px;
 }
+
+.example-card img {
+  grid-column: 1;
+  width: 100px;
+  width: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px dotted #4c227e;
+}
+
+.example-card .personality-blurb {
+  grid-column: 2;
+  margin: 0;
+
+
+}
+
+.example-card .big-5-desc{
+    font-weight: bold;
+}
+
