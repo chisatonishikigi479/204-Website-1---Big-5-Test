@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+html, body { height: 95%; }
+body, h1, h2, h3, p, ul, ol, li, figure { margin: 10; }
+ul, ol { padding-left: 1.1rem; }
