@@ -10,7 +10,7 @@
     <!--nav bar here-->
 
     <h1>Big 5 Introductory Info Site</h1>
-
+    
     <header>
         <nav aria-label="Primary">
         <ul class="nav">
@@ -25,11 +25,49 @@
 
 
         <section id="introduction">
+            <div id="intro-paragraphs"></div>
             <h1>Introduction to Big 5</h1>
+            <h2>What is the Big 5?</h2>
+            <p>
+                The Big 5, also called the Five Factor Model (FFM), is a framework meant to comprehensively capture human personality by reducing it to 
+                five fundamental traits: Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism (OCEAN). Its origin is based on the lexical hypothesis,
+                in other words, the assumption that all human personality inevitably gets encoded in human language, and its development arises from factor analysis of 
+                a broad repository of personality adjectives from many different languages (for instance, in English, we have words like "effervescent" or "cheerful" to describe Extraversion, and "assiduous" or "diligent" to describe Conscientiousness)
+                that coalesces said repository into 5 quasi-independent clusters of traits, also known as Factors or Dimensions. 
 
+              
+            </p>
 
-                    <div id="trait summary">
-                <table id="trait summary table">
+            <p> Over time, although the five main factors remain relatively consistent, several variations of the Big 5 have been developed including: </p>
+            <ol>
+                <li>
+                    NEO IPIP-R (300-item version of Big 5 that offers more granularity by splitting each main Big 5 dimension into 6 subfacets)
+                </li>
+                <li>
+                    BFAS (100-item version of Big 5 that splits each main dimension into 2 complementary subfacets, and emphasizes conceptual parsimony and reduction of redundancy while still being comprehensive)
+                </li>
+                <li> 
+                    HEXACO (Big 5 variation that adds an additional dimension + Honesty/Humility (also called the Big 6))
+                </li>
+            </ol>
+
+            <i><i>Note: Sometimes the trait Neuroticism is reverse-coded as Emotional Stability, in order to be consistent with the poles for each of the 5 dimensions that are <b>conventionally socially favored</b>.</i></i>
+
+            <h2>What are the applications/usefulness of the Big 5?
+            </h2>
+            <p>
+                Big 5 is much more useful, reliable, and scientifically robust than other popular but pseudoscientific personality systems, such as notably MBTI and Enneagram. This is because unlike the latter,
+                Big 5 is rooted in empirical phenomena (mainly studies of language), doesn't have arbitrary axioms or definitions, is much more well-defined and consistent, and has been shown repeatedly to have 
+                powerful predictive value in various domains, including but not limited to therapy, mental illness, artistic accomplishment, relationship styles/habits in romantic relationships, interpersonal interaction styles, and political beliefs. 
+                The Big 5 traits has been shown to have intimate ties with neuroscience and brain structure, for instance, people with High Openness are less likely to have high levels of Latent Inhibition.
+
+            </p>
+
+            <h2>Summary of Each Big 5 Dimension (Negative and Positive Poles)</h2>
+            </div>
+                <p>Here is a list of sample personality adjectives to describe each Big 5 dimension.</p>
+                    <div id="trait-summary">
+                <table id="trait-summary-table">
                 <caption>Personality Adjectives</caption>
                 <thead>
                 <tr><th>Dimension</th><th>Low scorers</th><th>High scorers</th></tr>
@@ -40,13 +78,16 @@
                 <tr><th>Extraversion</th><td>Reserved, Quiet, Reclusive, Reticent</td><td>Sociable, Outgoing, Bubbly, Energetic</td></tr>
                 <tr><th>Agreeableness</th><td>Cruel, Harsh, Indifferent, Blunt</td><td>Amicable, Acquiescent, Polite, Warm</td></tr>
                 <tr><th>Emotional Stabilty</th><td>Cantankerous, Moody, Impatient, Sensitive</td><td>Calm, Placid, Level-headed, Pleasant</td></tr>
-                </tbody>
+                </tbody>    
             </table>
             </div>
+
+            <p>For a more concise and visual version, see the infographic below. </p>
+            <img src="big5chart.png">
         </section>
         <section id="big-5-test">
-            <h1>Big 5 test (25 questions)</h1>
-            <p>Rate how accurately each statement describes you. IMPORTANT: Answer honestly. This is an objective personality screening tool, not a Buzzfeed quiz meant to flatter.</p>
+            <h1>Cursory Big 5 test (25 questions)</h1>
+            <p>Rate how accurately each statement describes you. <b>IMPORTANT: Answer honestly. This is an objective personality screening tool, not a Buzzfeed quiz meant to flatter. On the other hand, this short test is just a demonstration that does <i>NOT</i> replace a professional personality evaluation by a licensed psychologist. </b></p>
             <form id="big-5-form" novalidate>
             <ol id="big-5-items" class="items"></ol>
 
@@ -65,6 +106,14 @@
         <section id="resources">
         
             <h1>More Resources</h1>
+
+            <ol>
+            <li><a href="https://bigfiveaspects.com/"></a>Big 5 Aspects (Subfacets of each Dimension) in more Detail</li>
+            <li><a href="https://www.sapa-project.org/blogs/NEOmodel.html"></a>NEO-IPIP-R in more Detail</li>
+            <li><a href="https://hexaco.org/"></a>HEXACO in more Detail</li>
+
+
+            </ol>
         </section>
     </main>
 
