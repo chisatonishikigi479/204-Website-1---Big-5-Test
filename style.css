@@ -61,4 +61,5 @@ main.content {
     padding: 0px;
     display: grid;
     gap: 65px;
+    padding-top: 100px;
 }
