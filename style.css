@@ -24,41 +24,41 @@ body {
 }
 
 header{
-  position: fixed; 
-  top: 0;
-  background: rgba(13, 59, 29, 0.8);
-  backdrop-filter: blur(6px);
-  border-bottom: 1px dotted white;
-  z-index: 999;
+    position: fixed; 
+    top: 0;
+    background: rgba(13, 59, 29, 0.8);
+    backdrop-filter: blur(6px);
+    border-bottom: 1px dotted white;
+    z-index: 999;
 }
 
 header nav {
-  max-width: 1000px; 
-  margin: 0 auto; padding: 30px 40px;
+    max-width: 1000px; 
+    margin: 0 auto; padding: 30px 40px;
 }
 
 .nav {
-  display: flex; 
-  gap: 50px;
-  list-style: none; 
-  margin: 0; 
-  padding: 0;
+    display: flex; 
+    gap: 50px;
+    list-style: none; 
+    margin: 0; 
+    padding: 0;
 }
 .nav a {
  
-  text-decoration: none; 
-  padding: 15px 15px; 
-  border-radius: 21px;
+    text-decoration: none; 
+    padding: 15px 15px; 
+    border-radius: 21px;
 }
 .nav a:hover, .nav a:focus-visible {
-  outline: none;
-  background: rgba(34, 91, 129, 0.3);
+    outline: none;
+    background: rgba(34, 91, 129, 0.3);
 }
 
 main.content {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 0px;
-  display: grid;
-  gap: 65px;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0px;
+    display: grid;
+    gap: 65px;
 }
