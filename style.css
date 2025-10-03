@@ -137,3 +137,12 @@ button:hover {
     display: block;
     margin-inline: auto;
 }
+
+#big-5-test .items {
+  display: grid;
+  gap: 18px;
+}
+
+#big-5-test .items li {
+  background-color: #a6d8ed;
+}
