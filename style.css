@@ -157,7 +157,7 @@ button:hover {
 
 .example-card {
   display: grid;
-  grid-template-columns: 300px 1fr;  /* left = avatar, right = text */
+  grid-template-columns: 300px 1fr;  
   column-gap: 20px;
   align-items: start;
   background: #abd5eb;
