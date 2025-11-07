@@ -1,0 +1,584 @@
+﻿Here is my Literature/Media rubric that I designed.
+
+
+Total Points: 100
+3 Main Facets for Quality: I. Breadth, II. Depth, III. Consistency
+1 Facet for Valence: Grimness
+
+
+Conglomerate Facets: 
+1. Breadth and Depth combine to make the Ideas superfactor 
+2. Breadth and Consistency combine to make the Enjoyability superfactor
+3. Depth and Consistency combine to make the Refinement superfactor
+4. Depth and Grimness combine to make the Conceptual Maturity superfactor 
+
+
+8 Octants:
+B+ D+ C+ = Masterpiece
+B+ D+ C- = Experimental Work
+B+ D- C+ = Blockbuster/Bestseller
+B+ D- C- = Amateur Work
+B- D+ C+ = Classic
+B- D+ C- = Esoterica
+B- D- C+ = Comfort Media
+B- D- C- = Factory-produced slop
+
+
+Examples of Works in each octant:
+Masterpiece (B+ D+ C+): Dream of Red Chambers
+Experimental Work (B+ D+ C-): House of Leaves
+Blockbuster/Bestseller (B+ D- C+): Jurassic Park
+Amateur Work (B+ D- C-): Tomorrowland
+Classic (B- D+ C+): Of Mice and Men
+Esoterica (B- D+ C-): Angel Egg (1985)
+Comfort Media (B- D- C+): New Girl (2011)
+Slop (B- D- C-): Emoji Movie
+
+
+Shorthand notation of each Octant in this literature/media typology:
+Masterpiece: BDC
+Experimental Work: BD
+Bestseller: BC
+Classic: DC
+Amateur Work: B
+Esoterica: D
+Comfort Media: C
+Slop: * 
+
+
+Alternate shorthand notation uses two different letters to represent each pole on each dimension: 
+Breadth: Broad (B) vs. Narrow (N)
+Depth: Deep (D) vs. Shallow (S)
+Consistency: Consistent (C) vs. Messy (M)
+
+
+Hence, the eight distinct octants can be also notated as:
+Masterpiece: BDC
+Experimental Work: BDM
+Bestseller: BSC
+Amateur Work: BSM
+Classic: NDC
+Esoterica: NDM
+Comfort Media: NSC
+Slop: NSM
+
+
+If we’re including the affective valence/happiness dimension, which won’t be included in the overall rubric/scoring system itself because, unlike Breadth, Depth, and Consistency, it doesn’t objectively affect quality of the media, the two poles for this fourth valence dimension could be represented by these shorthands:
+Happiness: Happy (H) vs. Grim (G)
+Then, simply append -H or -G with a dash to the end of the “quality octant” the work/media/literature sits in to represent this fourth, purely valence, dimension.
+
+
+For instance, “New Girl” (2011) is the quintessential NSC-H (happy Comfort Media). Angel’s Egg or Erik Satie’s Vexations on the other hand both fall solidly into NDM-G (grim Esoterica). 
+
+
+If we were to come up with an archetypal example for each sedecimant (16-ant) based on these four dimensions (3 of them describing objective quality, the 4th describing valence), we have:
+
+
+BDC-H (Happy Masterpiece): The Truman Show 
+BDC-G (Grim Masterpiece): Dream of Red Chambers or Dante’s Divine Comedy
+
+
+BDM-H (Happy Experimental Work): Lord of the Rings
+BDM-G (Grim Experimental Work): Donnie Darko
+
+
+BSC-H (Happy Bestseller/Spectacle): Frozen
+BSC-G (Grim Bestseller/Thriller): Hunger Games
+
+
+BSM-H (Happy Amateur Work): Tomorrowland
+BSM-G (Grim Amateur Work): Countdown (2019)
+
+
+NDC-H (Happy Classic): Pride and Prejudice
+NDC-G (Grim Classic): The Man Who Knew Infinity, Your Lie In April, and Wuthering Heights
+
+
+NDM-H (Happy Esoterica): extremely rare and elusive 
+NDM-G (Grim Esoterica): Angel’s Egg, My Dinner with Andre, or Erik Satie’s Vexations, Golden Brown (The Stranglers)
+
+
+NSC-H (Happy Comfort Media): New Girl (2011)
+NSC-G (Grim Comfort Media): The Fault in Our Stars and Class of ‘09
+
+
+NSM-H (Happy Slop): Emoji Movie
+NSM-G (Grim Slop): The Room
+
+
+
+
+Facet I: Breadth (30 points total)
+
+
+Subfacet 1-A: Premise (10 points)
+Negative Traits: Flawed or hackneyed premise/central concepts, or no rich theoretical premise at all
+Positive Traits: Inventive/riveting concepts and brainstorming 
+
+
+Subfacet 1-B: Worldbuilding (10 points)
+Negative Traits: Unremarkable setting/exposition, lack of diversity in cast
+Positive Traits: Rich and well-defined worldbuilding and setting 
+
+
+Subfacet 1-C: Plot (10 points)
+Negative Traits: Predictable events, linear plot
+Positive Traits: Original plot devices and twists, rich arcs, branching plot
+
+
+Facet II: Depth (40 points total)
+
+
+Subfacet II-A: Characters (10 points total)
+Negative Traits: 1-dimensional caricatures, cardboard-thin tropes, hackneyed character dynamics without adding anything new (e.g. black cat and golden retriever couple)
+Positive Traits: characters are well distinguished from each other and given well-defined identities via voice/internal monologues, they have complex arcs and develop nontrivially throughout the story, their motivations, personalities, and neuroses are nuanced 
+
+
+Note: Character sub-rubric should be divided into 3 tertiary-level subfacets: (1) Neuroses (4 points), (2) Relationships (3 points), (3) Obfuscation (3 points), for a total of 10 points 
+
+
+Subfacet II-B: Themes (10 points total)
+Negative Traits: Paper thin or shoehorned themes, shallow tropes
+Positive Traits: Philosophical depth, multilayered and full of gray areas, enhances the audience's worldview
+
+
+Subfacet II-C: Subtlety (10 points total)
+Negative Traits: Too much concrete narration, obviously forced symbolism or metaphors or none at all.  
+Positive Traits: Follows the "show don't tell" axiom of writing, layered and effective symbolism/metaphors
+
+
+Subfacet II-D: Social Commentary (10 points total)
+Negative Traits: Self-contained and lacks broader political or cultural commentary, or the points made aren't original or are shoehorned in
+Positive Traits: Comments on or makes a thoughtful point about the current or past state of the world (in social or political terms) 
+
+
+Facet III: Consistency (30 points total)
+
+
+Subfacet III-A: Logic (10 points total)
+Negative Traits: plotholes, weak suspension of disbelief, continuity errors
+Positive Traits: does well at suspending disbelief, characters' actions and events/cause and effect chain makes sense
+
+
+Subfacet III-B: Chekhov’s Gun (5 points total)
+Negative Traits: Irrelevant filler padding, arcs that are left unresolved 
+Positive Traits: Ties up loose ends, no irrelevant/one-time characters or plot points 
+
+
+Subfacet III-C: Pacing (5 points total)
+Negative Traits: Plot moves either too fast or too slow, or inconsistent speed
+Positive Traits: Well structured narrative, good demarcation into character arcs/timeline of narrative makes sense.
+
+
+Subfacet-III-D: Execution (10 points total)
+Negative Traits: Low-budget, full of/easily noticeable errors/bugs/glitches, jarring to watch
+Positive Traits: High quality, high effort, smooth, decently polished
+
+
+-------------------------------------------------------------------------------------------
+Note on Breadth vs. Depth:
+
+
+In my typology rubric, Breadth is essentially a measure of originality and variety the work offers outwardly, while Depth is a measure of intellectual engagement needed to properly appreciate the work. A work can very much be high Breadth but low Depth - imaginative/inventive premises that lean on the hypothetical or unexplored, rich and well developed worldbuilding and character cast (very detailed and immersive), a variety of plot and character arcs, but ultimately lacking thoughtful development of the characters themselves or having only paper-thin themes. (e.g. Harry Potter, The Fifth Element, Da Vinci Code, Inside Out). On the other hand, a work can be low Breadth but high Depth - they could be retellings of things that exist or have already happened (a big category is documentaries like The Man who Knew Infinity), and/or have focused scope and a remarkably simple plotline or worldbuilding only containing a few characters (e.g. like Nightcrawler or Of Mice and Men), but require a good amount of intellectual or philosophical reflection to truly appreciate. 
+
+
+In general, in this rubric, Breadth is about the variety and novelty of ideas that are brought to the table, and Depth is about how intellectually and thoughtfully these ideas are explored.
+
+
+--------------------------------------------------------------------------------------------
+
+
+Another notion that I would like to expound on is the notion of Conceptual Maturity (CM), which can range from age 3 to age 21, inclusive, in terms of minimum recommended age to read or consume the media in question. This is much different, and can operate quasi-independently, of conventional Content Maturity (what MPAA uses). Unlike Content Maturity though (which does not relate to any of the 4 dimensions - Breadth, Depth, Consistency, and Happiness in this typology whatsoever), Conceptual Maturity primarily is a function of high Depth and low Happiness (specifically when combined). In my typology notation, this is particularly “xDx-G” (which subsumes BDC-G, BDM-G, NDC-G, and especially NDM-G).  
+
+
+The argument for the espousal of Conceptual Maturity rather than Content Maturity as a framework is that 
+(1) it humanizes art/media as they deserve, since Conceptual Maturity directly relates to the Depth and Grimness polar ends (which is what some media try to portray in an artistic way - social commentary of the corrupt and desolate world we live in), while Content Maturity is arbitrary and operates wholly independently of art/media quality and valence.
+(2) It can be argued that sometimes, Conceptual Maturity is what makes a piece of literature or media “adult” rather than Content Maturity, at least if we think more long term. Sex, drugs, or concrete violence are all much easier for young people to understand/process than layered satire, political/social commentary, weighty philosophical themes, or character/emotional nuance (especially if paired with neurosis or mental illness). The harm in someone with an underdeveloped cerebral cortex (which implies immature and less abstract/farsighted thinking) either misconstruing the intentions of the work (for example, by kinning or identifying with a protagonist or character that’s not meant to be idolized due to the Halo Effect - examples: Lou Bloom or Patrick Bateman) or developing distorted and unhealthy worldviews due to not understanding the notion of unreliable narrators or layered satire/political commentary far outweighs the harm in a teen hearing some dirty joke or a use of the F-word. 
+
+
+To give an example of this framework in action:
+Nightcrawler (2014) arguably has much higher conceptual maturity than content maturity, and is rated R despite not having sex scenes or overt violence at all. Indeed, I would categorize Nightcrawler as NDC-G (Grim Classic). The same goes for Wuthering Heights, as yet another NDC-G/BDC-G.
+On the other hand, New Girl (2011), the epitome of the NSC-H (Happy Comfort Media) sedecimant, has much lower conceptual maturity than content maturity. The only reason it’s rated TV-14 is because of occasional innuendos. 
+
+
+Films with CM = 16-18 should require the viewer to be at least 18 years old to watch or accompanied by a parent or guardian 21 years of age or older (even when accompanied, the minimum age should be 16). films with CM > 18 (19-21) should require the viewer to be at least 21 years old to watch or accompanied by a parent or guardian 25 years of age or older (even if accompanied, the minimum age should be 18) Valid proof of ID should be required.
+
+
+However, a potential problem with this system if implemented legally is that it might penalize actual young and curious minds that are very mature for their age, and also art might get reduced to cultural capital/proof of prestige and become assimilated indirectly because teens will watch CM21 films anyways without permissions and this will develop into forbidden fruit syndrome. Hence, it is best for the conceptual maturity (CM) framework to stay merely theoretical/as a tool for critique/analysis. 
+But, as Adorno said, art could be dangerous/harmful to undeveloped and uninitiated minds due to its alienation, dissonance, and inherent grimness/exposure of flaws, hence CM could still be useful that way to be implemented. 
+
+
+Note that again, only the three original dimensions, Breadth, Depth, and Consistency, objectively affect the quality of the media/literature. 
+
+
+Perhaps the scoring system could be made slightly different to align with how the general public or IMDb usually rates films and TV. Instead of a composite score out of 100 for all 3 quality facets (although this will still be used to determine overall broad quality), the score could just be simply the percentage the dimension that the work scores the highest on among all 3 quality dimensions (breadth, depth, consistency). To distinguish this new metric from the composite score, we will call this the “signature score” of the work. 
+Example (applied to Donnie Darko):
+
+
+Movie Review #1 (Donnie Darko)
+
+
+1. Breadth - 8/10
+Although this movie uses several common plot devices/concepts, such as time travel, doomed love, and multiverses, it blends them together in an imaginative and compelling way. A riveting mix of horror and sci-fi, and plot twists such as Gretchen's death and the dance team's final flight are well thought out especially near the climax and ending (the last few hours before the tangent universe ends). Worldbuilding isn't as rich as Lord of the Rings, but key lore/story elements (such as Grandma Death's book) are unique and well-defined for the purpose of this story (e.g. chapter excerpts of her book are actually written out)
+
+
+2. Depth - 10/10
+This is the facet where this movie stands out. Philosophical themes such as free will vs. determinism are deeply woven into the central plot of the movie - Donnie Darko paradoxically has a choice to save the rest of the world from the tangent universe, yet the tangent universe itself is deterministic. A scathing but layered social commentary/critique particularly about the influence of authority figures and the hypocrisy of organized religion, particularly as a copout/way some of the characters cope with fear. Biblical allusions, such as Jim Cunningham representing Satan and Donnie Darko representing Jesus' necessary death (but ironically in the alternate, normal universe, Donnie Darko gets forgotten), are also present. Quite the epitome of "show don't tell" subtlety. This movie also intertwines sci-fi/philosophical elements with realistic neuroses or mental illnesses which is illustrated through Donnie Darko's therapy visits. Due to this, this movie also is very open to interpretation (a hallmark of depth) - one could choose to interpret the whole timeline as Donnie's schizophrenic thoughts as well. 
+
+
+3. Consistency - 4/10
+Does decently in Chekhov's Gun (new leads tend to all be all related back to the main plot in some way), particularly the initially seemingly irrelevant subplot of Donnie's sister's dance team. However, pacing is the main weakness of this movie - particularly, the romance subplot between Donnie and Gretchen seems forced/rushed in some way and could be stretched out/defined more clearly. Some parts of the movie's logic are not clear at first (why did the jet engine itself accidentally open a wormhole into a tangent dimension?), a high level of suspension of disbelief is required. 
+
+
+4. Valence/Grimness - 8/10 
+has a happy ending (or maybe not depending on your interpretation, because the world is reduced to a mundane average once again with its flaws, such as Cunningham's presence and influence, intact), but inherently is dark and disturbing in its themes and Donnie Darko's core character. 
+
+
+Octant - BDM (broad, deep, messy) otherwise known as Experimental Work.
+Subtype - BDM-G (broad, deep, messy, grim)
+
+
+Remark: this movie is pretty much the complete opposite of the sitcom New Girl (2011) on these 4 dimensions, which is instead NSC-H (narrow, shallow, consistent, happy). 
+
+
+Also, a good litmus test for evaluating how well developed or well written characters are is to put them into a boilerplate scenario like a zombie apocalypse and see if their interactions and personalities can still make the story interesting. It basically is squeezing out all the Breadth (especially any original premise or world building) from the story to isolate and stress test the facet of Depth. 
+
+
+Also, this rubric shows how even if the premise/plot/concepts aren’t anything new, even if the work is derivative/unoriginal in that area (low Breadth), it can still be a high quality/revered work due to high Depth or high Consistency.
+
+
+---------------------------------------------------------------------------------------------
+
+
+Refinement of this typology system (3 factor model -> 4 factor model):
+
+
+Previously, the typology had Breadth as a singular axis and three total quality axes: Breadth, Depth, and Consistency. Now, we should split Breadth up into two independent dimensions: (1) Conceptual Breadth (subsumes the subfacet of Premise) and (2) Physical Breadth (subsumes subfacets Worldbuilding and Plot Complexity). 
+
+
+Conceptual Breadth itself should have the following subfacets (it could also be named Inventiveness): 
+* Originality
+Positive Traits: Compelling/original/unique concepts/ideas that haven’t been explored or done before. Could also combine multiple previous eclectic ideas in original ways (the whole is larger than the sum of its parts). 
+Negative Traits: Derivative concepts (for instance, Lycoris Recoil is largely derivative of 1984), story retellings without new concepts or elements, hackneyed or tropey premise/ideas. One-trick ponies/gimmicks that don’t really offer anything else.
+* Theoretical Richness
+        Positive Traits: “what-if scenarios”, hypothetical, imaginative, extrapolates from reality rather than staying anchored in it. 
+        Negative Traits: Stays mostly grounded in existing “real” ideas and concepts rather than hypotheticals. 
+
+
+Physical Breadth has the same two subfacets (Worldbuilding and Plot Complexity/Unpredictability) as discussed earlier in this document. It could also be named “Scope” or “Unpredictability”. Together, Scope/Unpredictability (Physical) and Inventiveness (Conceptual) make the conglomerate facet of Breadth. 
+
+
+We will notate the Conceptual Breadth dichotomy as Inventive (I, high scorers) vs. Quotidian (Q, low scorers). Similarly, the Physical Breadth dichotomy will be notated as Rich (R, high scorers) vs. Undeveloped (U, low scorers). Depth (Deep (D) vs Shallow (S)) and Consistency (Consistent (C) vs Messy (M)) will remain the same.
+
+
+This is to account for literature/media that are neutral in Breadth as a whole depending on the aspect surveyed - For instance movies like Meshes of the Afternoon and Angel’s Egg could have very inventive premises/concepts but very simple plots or minimal worldbuilding (Inventive but Undeveloped - IUxx). On the other hand, books like Dream of Red Chambers don’t do much with strictly conceptual invention (other than an imaginative tie-in to mythology at the beginning), but are sprawling in its plot and worldbuilding (over 400 characters, many arcs that intricately tie together, branching storytelling) (Quotidian but Rich - QRxx)
+
+
+Now, there are 4 quality factors/dimensions: Conceptual Breadth (Inventive vs. Quotidian), Physical Breadth (Rich vs. Undeveloped), Depth (Deep vs. Shallow), and Consistency (Consistent vs. Messy) and 1 valence dimension (Happy vs. Grim) which makes this rubric/typology now have 16 quality sedecimant categories (rather than just the original 8 octants), with 2 subtypes based on valence per sedecimant (making for 32 types of media in total), which will be notated -H or -G as previously described. 
+
+
+Here are all 16 quality sedecimants, their names/summaries, and archetypal examples for each: 
+
+
+Masterpiece/Classic family: 
+IRDC (Inventive, Rich, Deep, Consistent) - “Masterwork” 
+Example: Lord of the Rings, Dante’s Divine Comedy
+IUDC (Inventive, Undeveloped, Deep, Consistent) - “Journey”
+Example: Wuthering Heights
+QRDC (Quotidian, Rich, Deep, Consistent) - “Saga”
+Example: Dream of Red Chambers
+QUDC (Quotidian, Undeveloped, Deep, Consistent) - “Classic”
+Example: Nightcrawler, Of Mice and Men, or Your Lie In April
+
+
+Experimental/Esoterica family:
+IRDM (Inventive, Rich, Deep, Messy) - “Curiosity”
+Example: Donnie Darko, Everything Everywhere All At Once, Mulholland Drive
+IUDM (Inventive, Undeveloped, Deep, Messy) - “Esoterica”
+Example: Coherence, Angel’s Egg, DDLC
+QRDM (Quotidian, Rich, Deep, Messy) - “Morass”
+Example: As I Lay Dying
+QUDM (Quotidian, Undeveloped, Deep, Messy) - “Reflection”
+Example: Golden Brown (The Stranglers)
+
+
+Bestseller/Comfort Media family:
+IRSC (Inventive, Rich, Shallow, Consistent) - “Spectacle”
+Example: The Da Vinci Code
+IUSC (Inventive, Undeveloped, Shallow, Consistent) - “Excursion”
+Example: Megamind 
+QRSC (Quotidian, Rich, Shallow, Consistent) - “Community”
+Example: Lucky Star
+QUSC (Quotidian, Undeveloped, Shallow, Consistent) - “Relax”
+Example: New Girl 
+
+
+Amateur/Slop family:
+IRSM (Inventive, Rich, Shallow, Messy) - “Anticipation” 
+Example: The Amazing World of Gumball 
+IUSM (Inventive, Undeveloped, Shallow, Messy) - “Shower Thought”
+Example: Sausage Party
+QRSM (Quotidian, Rich, Shallow, Messy) - “Fraternity”
+Example: Lycoris Recoil
+QUSM (Quotidian, Undeveloped, Shallow, Messy) - “Slop”
+Example: Emoji Movie 
+
+
+Refined/complete 4-factor rubric:
+
+
+Dimension I: Creativity (20 points) 
+Subfacet I-A: Ingenuity (10 points)
+Positive Traits: Compelling/original/unique concepts/ideas that haven’t been explored or done before. Could also combine multiple previous eclectic ideas in original ways (the whole is larger than the sum of its parts). 
+Negative Traits: Derivative concepts (for instance, Lycoris Recoil is largely derivative of 1984), story retellings without new concepts or elements, hackneyed or tropey premise/ideas. One-trick ponies/gimmicks that don’t really offer anything else.
+
+
+Subfacet I-B: Theoretical Richness
+Positive Traits: “what-if scenarios”, hypothetical, imaginative, extrapolates from reality rather than staying anchored in it. 
+        Negative Traits: Stays mostly grounded in existing “real” ideas and concepts rather than hypotheticals. 
+
+
+Positive Pole: Inventive (I)
+Negative Pole: Quotidian (Q)
+
+
+Dimension II: Variety (20 points)
+Subfacet II-A: Worldbuilding (10 points)
+Negative Traits: Unremarkable setting/exposition, lack of diversity in cast
+Positive Traits: Rich, immersive and well-defined worldbuilding and setting 
+
+
+Subfacet II-B: Plot Complexity (10 points)
+Negative Traits: Predictable events, linear, bland, or repetitive plot
+Positive Traits: Original plot devices and twists, rich and intricate arcs, branching plot
+
+
+Positive Pole: Rich (R)
+Negative Pole: Focused (U)
+
+
+Dimension III: Depth (40 points)
+Subfacet III-A: Character Complexity (15 points) (will expounded on in a tertiary level rubric)
+Negative Traits: 1-dimensional caricatures, cardboard-thin tropes, hackneyed character dynamics without adding anything new (e.g. black cat and golden retriever couple)
+Positive Traits: characters are well distinguished from each other and given well-defined identities via voice/internal monologues, they have complex arcs and develop nontrivially throughout the story, their motivations, personalities, psychology, and neuroses are nuanced. They also have complex relationships with other characters in the story and are not just shallow “hero/villain” archetypes. 
+
+
+Subfacet III-B: Commentary (15 points) - The heavy weighting and definition of this facet is based on the philosophical thesis “all art is political”. 
+Negative Traits: Paper-thin themes, generic or black and white view on morality (e.g. good vs. evil), either does not attempt to comment on societal or human condition or commentary is overt/shoehorned/too didactic rather than revealed through form. 
+Positive Traits: Philosophically reflective, layered themes that are open to interpretation, embraces gray areas particularly in knowledge and ethics, makes profound points about humanity, history, society, culture, or political ideologies, alludes to religion or other cultural movements. 
+
+
+Subfacet III-C: Subtlety (10 points)
+Negative Traits: Too much concrete narration, obviously forced symbolism or metaphors or none at all. Elements/devices in the story mostly serve to advance the plot rather than for artistic intent. 
+Positive Traits: Follows the "show don't tell" axiom of writing, has layered and effective symbolism/metaphors. 
+
+
+Positive Pole: Deep (D)
+Negative Pole: Shallow (S)
+
+
+Dimension IV: Consistency (20 points)
+
+
+Subfacet IV-A: Internal Logic (5 points total)
+Negative Traits: plotholes, weak suspension of disbelief, continuity errors
+Positive Traits: does well at suspending disbelief, characters' actions and events/cause and effect chain makes sense
+
+
+Subfacet IV-B: Chekhov’s Gun (5 points total)
+Negative Traits: Irrelevant filler padding, arcs that are left unresolved 
+Positive Traits: Ties up loose ends, no irrelevant/one-time characters or plot points 
+
+
+Subfacet IV-C: Pacing (5 points total)
+Negative Traits: Plot moves either too fast or too slow, or inconsistent speed
+Positive Traits: Well structured narrative, good demarcation into character arcs/timeline of narrative makes sense.
+
+
+Subfacet IV-D: Execution Quality (5 points total)
+Negative Traits: Low-budget, full of/easily noticeable errors/bugs/glitches, jarring to watch
+Positive Traits: High quality, high effort, smooth, decently polished 
+
+
+Positive Pole: Consistent (C)
+Negative Pole: Messy (M)
+
+
+
+
+
+
+
+
+Tertiary-level rubric for the Character Complexity subfacet of Depth (15 points total): 
+
+
+For each major character, they should be scored on the Individual Character rubric (10 points total) (Subfacet III-A-I):
+Subfacet III-A-I-1: Neuroses (4 points total) - The inclusion of this subfacet is based on the Enneagram theoretical framework.
+Negative Traits: Caricatures that are myopic stereotypes rather than archetypes/blueprints. Their motivations are simple and without subtlety, e.g. “to get the girl” or “to be the evil villain”. The character is dependent on the plot. 
+Positive Traits: Well-defined and nuanced motivations and beliefs for either taking certain actions or espousing certain belief systems. The character feels human, and their mental/emotional struggles are layered and authentic rather than shallow or artificial. Characters are complex rather than portrayed as just “good or evil”. The plot is dependent on the character. 
+Negative Pole: Hackneyed (H)
+Positive Pole: Inspired (I)
+
+
+Subfacet III-A-I-2: Individuation (3 points total):
+Negative Traits: A redundant or shallow/low-fidelity personality that can be easily replaced by another character. Speaks and thinks the same as other characters in the story.
+Positive Traits: A distinguishing voice, whether it be style of speech/patterns of thought, or internal monologue. A unique personality with well-defined strengths, weaknesses, behaviors, and character traits. Their physical design and involvement in the plot is not an accidental property. 
+Negative Pole: Redundant (R)
+Positive Pole: Unique (U)
+
+
+Subfacet III-A-I-3: Development (3 points total):
+Negative Traits: A character that remains static/flat throughout the story, or a character whose change in personality only comes from events in the plot rather than through their own internal reflections or decision making. 
+Positive Traits: A character who is constantly reflecting or thinking about their motivations or beliefs, and/or whose beliefs change due to their own volition or underlying neuroses. The setting and plot points serve as the environment that shapes the character rather than some drug or medicine that forces a personality change. 
+Negative Pole: Static (S)
+Positive Pole: Dynamic (D)
+
+
+Then, their scores should be averaged (out of 10) for each character, but with the average weighted on how much each character is involved in the story. 
+
+
+For the set of characters in general, they should be scored on the Character Interactions rubric (5 points total) (Subfacet III-A-II)
+Positive Traits: The characters’ relationships feel organic, authentic, and have complexity, nuance, and developing variance. Romantic relationships that are more based on the compatibility (and incompatibility) between the characters’ beliefs and motivations than their outward behaviors. Dialogue between characters is natural and cohesive, and reflects their personalities either clashing or harmonizing. 
+Negative Traits: Not thematically cohesive/the interaction feels shoehorned in to advance the plot. Relationships are overdone cliches such as the Golden Retriever x Black Cat couple trope. Each character fulfills an archetypal/generic role (e.g. “the bubbly manic pixie dream girl”, “the comic relief”) within the cast. Dialogue between characters is inane or exaggerated. 
+
+
+Positive Pole: Organic (O)
+Negative Pole: Artificial (A)
+
+
+NOTE: in stories with only one main character, an interaction between a character with another character doesn’t have to be between physically distinct characters, it can be between the different personas of the sole character. 
+In total, this makes Character Complexity worth 4+3+3+5 = 10+5 = 15 points. 
+
+
+Additionally, what might the analogy of “Duo types” (from the AB5C version of the Big 5) look like for this similar Big 5-esque framework? Use the original dichotomy letters for the trait codes.
+Creativity: Inventive/Quotidian
+Scope: Rich/Undeveloped
+Depth: Deep/Shallow
+Consistency: Consistent/Messy
+Valence: Happy/Grim
+Including valence there would actually be 40 duo types (5 choose 2 ways to select two dimensions; and 2^2 ways to select the poles for those two dimensions)
+Also, Creativity, Variety, Depth, and Consistency cutoffs (for the dichotomy codings) should each be higher than 50% of the total possible points. My suggestions for the cutoffs are Creativity: 13+/20, Variety: 12+/20, Depth: 27+/40, and Consistency: 15+/20. 
+QUDC examples: of mice and men, the old man and the sea, the man who knew infinity, the pianist, whiplash, Zodiac, Your Lie In April. For some reason, QUDC examples are much easier to name and much more common than QUDM examples. In general, QUDM (“Reflection”) is probably the rarest sedecimant on my typology. All sedecimants one Hamming distance away from QUDM, which includes QUDC, QUSM, QRDM, and IUDM, are much more common than true QUDM works, at least when it comes to released works.
+Another note:
+Art films tend to be almost exclusively IxDM-x, often IxDM-G. IxDx-x is non-negotiable for art films.
+Documentaries tend to be almost exclusively QxxC-x, often QUxC-x. True crime tends to be QUSC-G or QUDC-G. 
+Sitcoms tend to be QxSC-H. 
+Theoretical basis (Adorno): 
+According to the philosopher Adorno, what delineates art from non-art is its autonomy, non-identity, and subtlety/difficulty yet openness of interpretation. In my rubric, the ideal representing his concept of the purest form of art would be IxDM-G (inventive, deep, messy, grim). However, I slightly widen the delineation from pure art to pure non-art to the dichotomy between IxDM-x vs. QxSC-x. 
+High conceptual breadth/inventiveness makes the artwork explore novel forms and have autonomy rather than regurgitate existing tropes of our culture. Art or media that is quotidian or of lower conceptual breadth fails to satisfy the non-identity axiom of art, since ideas, tropes, and structure/form are inherently products of the zeitgeist culture.
+The next facet that’s absolutely non-negotiable in art is its difficulty/subtlety (which is subsumed as the facet Depth in my rubric). If the amount of intellectual reflection required to understand such media is not high enough, it will inevitably get normalized into the current culture and contribute to the shifting of cultural values, defeating the purpose of art as knowledge of the universal human condition, outside of current societal boundaries. Depth also crucially is the vehicle for the truth content itself of the work. A piece of media with high conceptual breadth but low depth, in other words art that scores IxSx-x on my rubric (such as The Fifth Element or Jurassic Park), attempts to subvert existing boundaries but in a way that’s too immediate and on the nose, resulting in eventual assimilation of the media into mainstream society and an inevitable shift (if the inventiveness + shallowness contrast is large enough).
+The third facet that’s also, according to Adorno, vital for art’s authenticity is a (lack of) Consistency. Art should question existing systems of order and transcend interpretability by logical frameworks in general, or else it doesn’t become art, it becomes formal science, philosophy, or math. Systems of axioms and rules (what people “view” as rational) is inherently bound to current society and culture, so a lack of consistency, combined with high conceptual breadth/inventiveness and high depth contributes to the work of art being non-identical and expressing universal truth via the negation current truths. 
+The variety (unpredictability, scope, expansiveness) of a work might be an accidental/non-essential property in Adorno’s framework of art rather an essential one - it affects delivery/form but not the truth content intrinsically. I agree, and perhaps on this basis we could question including Variety as a quality dimension at all and move it in the category of Valence as an irrelevant modifier. However, this should be done later after more reflection. 
+Adorno sees art as inherently expressing its truth through suffering (that is repressed by social norms) hence Adorno’s ideal of art would also be usually Grim > Happy on the valence scale by embodying alienation and marginalization. However, I impugn this claim and think Valence is an irrelevant dimension for delineating art vs. non-art. This is because emotional valence, behaviors, and attitudes is also a contingent product of current societal values - for instance it could be community or harmony as in organized religion, or it could also be skepticism or cynicism as in atheism or Social Darwinism.
+It is worthy to point out that Consistency among the 3 critical dimensions is in my opinion the least important relative to Depth and Inventiveness, because an art piece could still have its own internal consistency/have its structure/form be self-dictated, even though Adornian ideal of art is almost always Messy (M) > Consistent (C). Low consistency is only a “symptom” of pure art rather than an inherent quality of it. Depth on the other hand is the most important dimension in my opinion if we were to subscribe to an Adornian framework. It is what drives the truth-content and makes art universal but only accessible to the initiated and resisting assimilation by the masses. 
+In general: purest art = IxDM-x (inventive, deep, messy)
+Purest non-art = QxSC-x (quotidian, shallow, consistent)
+Another crucial sidenote: the scores and classification on this very rubric are contingent on time period and culture from which we view the artwork or media. 
+An alternative splitting of my media framework into “Quadras” is this classification (each quadra contains four sedecimants and 8 sedecimant-valence combinations, for example Compromised Art subsumes QUDC, QUDM, QRDC, QRDM):
+Pure Art: IxDx-x
+Compromised Art: QxDx-x
+Pretentious Art: IxSx-x
+Non-Art: QxSx-x
+Here are alternate (Adornian) labels for each pole: 
+Inventiveness: Autonomous. 
+Quotidian: Heteronomous. 
+Rich: Maximalist. 
+Undeveloped: Minimalist. 
+Deep: Knowledge. 
+Shallow: Pleasure. 
+Consistency: Closure. 
+Messy: Fragmented. 
+Grim: Alienating. 
+Happy: Reconciling.
+In general, QUDC art/media/literature is the embodiment/category of the most accessible “higher art” - often a good entry point for people graduating to more sophisticated/intellectual tastes. 
+Categories ranked from highest to lowest openness (in my opinion):
+IUDM > IRDM > IRDC > IUDC > QRDM > QUDM > QRDC > QUDC > IRSM > IRSC > IUSC > IUSM > QRSM > QUSM > QRSC > QUSC
+While Creativity (Q/I) in my rubric is form, Depth (S/D) in my rubric is content.
+More about “Compromised Art” quadra (QxDx-x): 
+Art that still manages to infuse truth-content (Wahrheitsgehalt) but in a more conventional form or structure makes up the QxDx-x quadra. It is the quadra most laypeople think of when they hear the word “cultured”. “Oh, you’re cultured? You must be reading the timeless classics like Of Mice and Men or 1984. (note that even though 1984 during the time it was written (early 1900s) would score IxDx-x, nowadays it would score QxDx-x due to the oversaturation of the dystopian genre with the proliferation of tropes like authoritarianism and forbidden love) You must have great knowledge of Mozart, Beethoven, Chopin’s work!” QxDx-x, especially QUDC, tends to make up the most accessible “higher art” due to it having structure that is familiar and well-known. It resists complete assimilation by the laypeople due to its critique and truthful meaning in its content, and even if that depth has a lower barrier to entry due to the quotidian form it is presented in, there can still be effectively endless ways to interpret and intellectualize the work. The fruit is lower hanging but still rich in nutrients and intellectual nourishment. However, the avenue where it doesn’t as much resist the “predator-prey” cycle of ideology-art is not necessarily the cultural industry but zeitgeist academia, which is still part of current society and culture. Due to their conventional form, QxDx works tend to be very well-studied and make their way into academic canons, which makes them gradually become compromised art rather than pure art. A lot of QxDx literature like As I Lay Dying (QRDM) or The Old Man and the Sea (QUDC) are staples in high school curricula in Western countries. Other QxDx works become revered classics and essentially a cultural rite of passage towards maturity - for example the movie “The Man Who Knew Infinity” (QUDC-G) is viewed this way in the math community. QxDx art is compromised in that they still do not serve art’s purpose of autonomy/questioning the status quo as well as IxDx art even if they still contain the required truth-content - they instead often serve as markers of cultural prestige/cultural capital - reinforcing mainstream elitism. This makes for the paradox that even elitism can become common. 
+More about “Pretentious Art” quadra (IxSx-x):
+IxSx quadra represents the assertion/movement "art for art's sake" - forced innovation and complexity without meaning, critique, or truth content. It is art that has the appearance of autonomy in form but in a merely performative way - it is in a more meta way heteronomous to society’s constant demands for innovation and new forms, and it satisfies this by delivering original concepts or structures without ample critique or substance. 
+Cryptography analogy: 
+QxSx (quotidian-shallow Quadra) media: leaving the plaintext as just plaintext without any cryptosystem
+IxSx (inventive-shallow Quadra) media: cryptosystems that either aren’t secure/are easily decrypted by amateurs, or don’t follow Kerckhoff’s principle at all. In other words, secrecy only by obscurity/novelty (e.g. the Caesar cipher). The actual knowledge/data (plaintext) is easily and predictably derived from the cipher text (the cipher text is what the art is on the surface - taking current social values) hence it doesn’t really critique current values at all. 
+QxDx Quadra (quotidian-deep Quadra) compromised art: crypto systems that are genuinely hard to decrypt but only because they rely on conventional problems that are “hard” to solve with traditional tools (lack of autonomy). RSA (factoring problem) and Diffie Hellman key exchange (discrete log problem) are examples - the knowledge (plaintext encrypted by ciphertext) will easily get decrypted and disseminated by society because these hard problems they rely on are so commonly studied and quantum computing is on the rise. 
+IxDx Quadra (incentive-deep Quadra) pure art: crypto systems that are both state of the art (use novel one way functions or pseudorandomness) in methodology and extremely hard to decrypt. Often resists quantum computing. Knowledge of the plaintext (repressed values) is only available for the initiated to prevent its misappropriation by unauthorized users. 
+In the Adornian Ideal of art, low Consistency (messiness, M > C) is more prevalent and more effective than high Consistency to serve art’s required social function. However, Adornian art need not be low Consistency (even though it often is low Consistency - IxDM), it could be IxDC as well if it operates within its own idiosyncratic logical framework that is autonomous from conventional narrative pacing or structure (which themselves are often imposed by the zeitgeist - for example see the often taught-in-schools exposition -> rising action -> climax -> resolution structure). This is what Adorno calls “immanent structure” in art. However, in my stance, the most effective art, however, is in fact low Consistency, not even possessing internal idiosyncratic logic, because the mere inclusion of rules (even if internal ones) in an artwork or piece of media moves the artwork closer to conceptual knowledge rather than non-conceptual, intuitive knowledge, the latter which art is supposed to embody (to understand the knowledge in the world that cannot be explained merely discursively). 
+I'm thinking of dropping the variety dimension (R/U) from my rubric entirely since it doesn't seem to matter that much in Adornian terms and return to the original 3 factor model but now, Breadth is stripped away from Plot Complexity and Worldbuilding and only Conceptual Breadth (Premise Originality and Theoretical Richness) matters.
+Also, I think we should rename the poles of breadth to Inventive (I) vs. Quotidian (Q) and rename Breadth as a facet to Inventiveness.
+So now, we have:
+IDC = masterpiece
+IDM = experimental (adornian ideal)
+ISC = bestseller
+ISM = gimmick (relabeled from “amateur”)
+QDC = classic
+QDM = esoterica
+QSC = formula (relabeled from “comfort”) 
+QSM = slop
+These are the core dimensions that determine and shape an artwork’s Adornian truth content. 
+Variety (Rich/Undeveloped) and Valence (Grim/Happy) become accidental/modifier dimensions that do not matter towards the core quality of an artwork and are only included as extra descriptors. (We separate the 3 immanent and the 2 contingent qualities with a dash, as usual)
+An informal quadra system for contingent dimensions only: 
+xxx-GR (grim, rich): battleground 
+xxx-GU (grim, undeveloped): constriction 
+xxx-HR (happy, rich): fantasy 
+xxx-HU (happy, undeveloped): idyll
+For example, now IUDM-G (now labeled as IDM-GU) would be named a "constrictive experimental" and QUDC-H (now labeled as QDC-HU) would be named an "idyllic classic"
+Complete taxonomy with examples:
+IDC octant: “Masterpiece”
+Example of each subtype of IDC:
+IDC-GR (“Battleground Masterpiece”) - Divine Comedy
+IDC-GU (“Constrictive Masterpiece”) - Stalker 
+IDC-HR (“Fantasy Masterpiece”) - Lord of The Rings
+IDC-HU (“Idyllic Masterpiece”) - The Truman Show
+IDM octant: “Experimental”
+Example of each subtype of IDM:
+IDM-GR (“Battleground Experimental”) - Donnie Darko
+IDM-GU (“Constrictive Experimental”) - Angel’s Egg
+IDM-HR (“Fantasy Experimental”) - Everything Everywhere All At Once
+IDM-HU (“Idyllic Experimental”) - The Grand Budapest Hotel
+QDC octant: “Classic”
+Example of each subtype of QDC:
+QDC-GR (“Battleground Classic”) - Dream of Red Chambers
+QDC-GU (“Constrictive Classic”) - Your Lie In April
+QDC-HR (“Fantasy Classic”) - Spirited Away
+QDC-HU (“Idyllic Classic”) - Pride and Prejudice
+QDM octant: “Esoterica”
+Example of each subtype of QDM:
+QDM-GR (“Battleground Esoterica”) - As I Lay Dying
+QDM-GU (“Constrictive Esoterica”) - Golden Brown (The Strangers)
+QDM-HR (“Fantasy Esoterica”) - not sure
+QDM-HU (“Idyllic Esoterica”) - not sure 
+ISC octant: “Bestseller”
+Example of each subtype of ISC:
+ISC-GR (“Battleground Bestseller”) - Hunger Games
+ISC-GU (“Constrictive Bestseller”) - Suicide Squad
+ISC-HR (“Fantasy Bestseller”) - The Da Vinci Code
+ISC-HU (“Idyllic Bestseller”) - Megamind
+ISM octant: “Gimmick”
+Example of each subtype of ISM: 
+ISM-GR (“Battleground Gimmick”) - Sausage Party
+ISM-GU (“Constrictive Gimmick”) - Countdown (2019)
+ISM-HR (“Fantasy Gimmick”) - The Amazing World of Gumball  
+ISM-HU (“Idyllic Gimmick”) - Tomorrowland
+QSC octant: “Formula”
+Example of each subtype of QSC:
+QSC-GR (“Battleground Formula”) - Class of ‘09
+QSC-GU (“Constrictive Formula”) - To Catch a Predator
+QSC-HR (“Fantasy Formula”) - The Office
+QSC-HU (“Idyllic Formula”) - New Girl (2011)
+QSM octant: “Slop”
+Example of each subtype of QSM:
+QSM-GR (“Battleground Slop”) - not sure
+QSM-GU (“Constrictive Slop”) - The Room
+QSM-HR (“Fantasy Slop”) - Lycoris Recoil
+QSM-HU (“Idyllic Slop”) - Emoji Movie 
+AI generated "art" is basically all QSM-xx (“slop octant”) on my rubric.
+Quotidian > Inventive: AI art inherently makes decisions off of statistical likelihood and hence will generate based off of existing data what's the most likely extrapolation.
+Shallow > Deep: AI has no emotions or thinking capability despite a veneer of one, let alone purposefully and intentionally infuse symbolism, philosophical themes, or social commentary. If it ever does appear to do that it's just plagiarizing from past works of actual artistic merit.
+Messy > Consistent: This is the most obvious, but AI is getting outwardly more consistent at generation. Fundamentally though AI's generation still suffers from a lot of stochastic noise, resulting in sometimes subtle but overt glitches or unnatural bugs in the output.
+Rich/Undeveloped: varies. 
+Grim/Happy: also varies.
+Why consistency doesn’t matter as much and both IDC and IDM can be the Adornian ideal of art (edit from last revision of this framework after having read more of Adorno’s stuff myself):
+While art is often fragmented and will not immediately be resolvable or offer universal truth at first glance, and should not be decodable under traditional analytic methods (i.e. using propositional logic), Adorno also stressed that art must have its own internal consistency (much like how a language needs to have its own consistent syntax and grammar rules) in order to meaningfully deliver its truth content via mimesis. This internal consistency however is also separate from external/conventional structures of logic and should not be able to be reified by just logical reasoning alone. 
+Hence, since the Consistency axis on my rubric currently measures both internal consistency (Internal Logic) and external consistency (Chekhov’s Gun, Execution Quality, Pacing), truly Adornian works of art can indeed have mixed scores on Consistency.
